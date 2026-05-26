@@ -1,1 +1,1 @@
-# Graph-data-structure-in-python
+Berisikan program contoh untuk struktur data graph pada python
